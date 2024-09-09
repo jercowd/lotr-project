@@ -6,10 +6,13 @@
   z-index: 50;
   position: relative;
   flex: 1;
+  max-height: 100vh;
+  padding: 10px;
 }
 
 .layout {
   display: flex;
   flex-direction: column;
   gap: 4px;
+  max-width: 100%;
 }

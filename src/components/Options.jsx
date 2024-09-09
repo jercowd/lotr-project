@@ -12,7 +12,7 @@ export default function Options(props) {
   console.log('SELECTION VALUE: ', selection)
 
   return (
-    <div>
+    <div className={styles.buttonContainer}>
       {questions.map((question, index) => {
         return (
           <button onClick={setSelection(question)} className={`${styles.button} ${question === selection ? styles.selectedButton : styles.nonSelectedButton}`} key={index}>{question}</button>

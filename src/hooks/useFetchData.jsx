@@ -7,13 +7,13 @@ export default function useFetchData(selection) {
 
   const apiURL = 'https://the-one-api.dev/v2'
   const APITOKEN = import.meta.env.VITE_API_KEY
-  let options = {
+  const options = {
     headers: {
       'method': 'GET',
       'Authorization': `Bearer ${APITOKEN}`
     }
   }
-
+  
     console.log(APITOKEN)
 
   useEffect(() => {
@@ -24,7 +24,6 @@ export default function useFetchData(selection) {
     async function fetchData () {
       const url = apiURL + '/' + selection
       try {
-
         const res = await fetch(url, options)
         const jsonData = await res.json()
         console.log('DATA: ', jsonData)

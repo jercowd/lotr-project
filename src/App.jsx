@@ -7,14 +7,10 @@ function App() {
 
   return (
     <div className="App">
-      {/* <header>
-        this is the header
-      </header> */}
+      <img src="https://artistmonkeys.com/wp-content/uploads/2021/10/Rivendell-beautiful-landscape-1-scaled.jpg" alt="lotr-background-img" className='bg-image' />
       <main>
-        <img src="https://artistmonkeys.com/wp-content/uploads/2021/11/Minas-Tirith-Gondor-beautiful-landscape-2-scaled.jpg" alt="lotr-background-img" className='bg-image' />
-      <Dashboard/>
+        <Dashboard/>
       </main>
-      {/*<footer>This is the footer</footer> */}
     </div>
   )
 }

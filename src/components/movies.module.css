@@ -1,0 +1,15 @@
+.movieDashboard {
+  display: flex;
+  flex-direction: column;
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  gap: 8px;
+  padding: 8px;
+  max-width: 100%;
+}
+
+.information {
+  max-width: 100%;
+  width: 100%;
+  word-break: break-all;
+}

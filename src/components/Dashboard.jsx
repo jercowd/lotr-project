@@ -18,16 +18,16 @@ export default function Dashboard() {
     }
 
     const dataRender = {
-      'character': <Characters/>,
-      'book': <Books/>,
-      'movie': <Movies/>
+      'character': <Characters data={data}/>,
+      'book': <Books data={data}/>,
+      'movie': <Movies data={data}/>
     }
 
 
   return (
     <div className={styles.dashboard}>
       <div className={styles.layout}>
-        <h1>LOTR INFO</h1>
+        <h1 style={{margin: '0 auto'}}>LOTR INFO</h1>
         <Options selection={selection} setSelection={onClickHandler}/>
         {loading && (
           <Loader/>
