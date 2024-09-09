@@ -2,6 +2,8 @@ import { useState } from 'react'
 import './App.css'
 import Dashboard from './components/Dashboard'
 
+{/* To locally host type following command in terminal: npm run dev */}
+
 function App() {
   const [count, setCount] = useState(0)
 
