@@ -30,7 +30,7 @@ The application is deployed and accessible at https://jercowd.github.io/lotr-pro
 
 ## Acknowledgments
 
-This project was built by following the 'Learn React.js by Building a Lord Of The Rings Web App' tutorial on Smoljames' channel. Special thanks to the creator for providing excellent guidance.
+This project was built by following the 'Learn React.js by Building a Lord Of The Rings Web App' tutorial on Smoljames' YouTube channel. Special thanks to the creator for providing excellent guidance.
 
 ## Contributing
 
