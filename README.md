@@ -28,6 +28,10 @@ To run the application locally, follow these steps:
 
 The application is deployed and accessible at https://jercowd.github.io/lotr-project/
 
+## Acknowledgments
+
+This project was built by following the 'Learn React.js by Building a Lord Of The Rings Web App' tutorial on Smoljames' channel. Special thanks to the creator for providing excellent guidance.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
