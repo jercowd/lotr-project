@@ -9,6 +9,7 @@ function App() {
 
   return (
     <div className="App">
+      {/* Added background image */}
       <img src="src/img/background.jpg" alt="lotr-background-img" className='bg-image' />
       <main>
         <Dashboard/>
