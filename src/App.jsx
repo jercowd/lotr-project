@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <img src="https://artistmonkeys.com/wp-content/uploads/2021/10/Rivendell-beautiful-landscape-1-scaled.jpg" alt="lotr-background-img" className='bg-image' />
+      <img src="src/img/background.jpg" alt="lotr-background-img" className='bg-image' />
       <main>
         <Dashboard/>
       </main>
