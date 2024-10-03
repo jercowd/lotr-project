@@ -1,6 +1,6 @@
 # Lord of the Rings Information Explorer
 
-## Description
+## Overview
 
 The **Lord of the Rings Information Explorer** is an immersive web application that invites users to explore the rich lore of J.R.R. Tolkien's universe. Built using modern web technologies like React.js and VITE, this application allows fans to delve into detailed information about characters, books, and movies from the beloved franchise. With an intuitive interface and seamless navigation, users can easily discover the intricacies of Middle-earth.
 
