@@ -9,7 +9,7 @@ The **Lord of the Rings Information Explorer** is an immersive web application t
 This application offers an engaging experience for fans of all ages, allowing you to extensively browse information on all your favorite characters and other Lord of the Rings content. The search and filter features make it easy to find specific information, while the responsive design ensures optimal viewing on any device. By integrating external APIs, the app keeps the information current and enriching, making it a valuable resource for anyone passionate about the Lord of the Rings universe. Dive in and uncover the secrets of Middle-earth like never before!
 
 ## Try it Out!
-You can access the live application here: 
+You can access the live application here: http://jeremycowden.com/lotr-project/
 
 ## Quick Start
 
